@@ -1,0 +1,9 @@
+"defaultid";"worshipitemid";"weekrule";"sourcetype";"memberid";"guestspeakerid";"roleid";"displaytext";"sortorder"
+76;1;"ALL";"GUEST";0;1;0;"";1
+77;10;"ALL";"GUEST";0;1;0;"";1
+78;16;"ALL";"TEXT";0;0;0;"Anyone from Church Congregation";2
+79;17;"ALL";"GUEST";0;1;0;"";1
+80;21;"NOTLAST";"ROLE";0;0;3;"";1
+81;21;"LAST";"ROLE";0;0;4;"";2
+82;22;"ALL";"GUEST";0;1;0;"";1
+83;23;"ALL";"GUEST";0;1;0;"";1

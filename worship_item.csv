@@ -1,0 +1,24 @@
+"worshipitemid";"itemname";"itemtype";"allowguest";"haspassage";"ordernumber";"status"
+1;"Call to Worship / Song / Prayer";"PEOPLE";1;0;1;1
+2;"Intercession Prayer";"PEOPLE";0;0;7;1
+3;"Praise and Worship";"PEOPLE";0;0;10;1
+4;"Bible Reading";"PEOPLE";0;1;12;1
+5;"Bible References";"TEXT";0;0;12;1
+6;"Prayer before Message / Sermon";"PEOPLE";0;0;14;1
+7;"Message / Sermon";"PEOPLE";1;0;15;1
+8;"Hymn (All Standing)";"SONG";0;0;2;1
+9;"Responsive Bible Reading";"PEOPLE";0;0;3;1
+10;"Devotion";"PEOPLE";0;0;4;1
+11;"Intercessory Prayer Song";"TEXT";0;0;6;1
+12;"Family Song / Cottage Prayer Meeting";"PEOPLE_DATE";0;0;11;1
+13;"Praise & Worship Song";"SONG";0;0;8;1
+14;"Hymn 2 (All Standing)";"TEXT";0;0;13;1
+15;"Offering Song";"SONG";0;0;16;1
+16;"Special Song and Testimonies";"TEXT";0;0;7;1
+17;"Holy Communion";"PEOPLE";1;0;18;1
+18;"Communion Song";"SONG";0;0;19;1
+19;"Communion Prayer";"PEOPLE";1;0;20;1
+20;"Offering 2 Song";"SONG";0;0;21;1
+21;"Announcements";"PEOPLE";1;0;22;1
+22;"Closing Prayer";"PEOPLE";1;0;23;1
+23;"Lord's Prayer / Benediction";"PEOPLE";1;0;24;1
